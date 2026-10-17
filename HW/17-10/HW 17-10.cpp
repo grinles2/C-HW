@@ -1,5 +1,7 @@
-﻿#include <iostream>
+#include <iostream>
 
+
+// Тут функции к заданиям ( обозначены цифрами )
 //  1
 
 void copyArray(int* src, int* dest, int size) {
