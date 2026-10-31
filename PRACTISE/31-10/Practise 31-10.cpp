@@ -106,7 +106,7 @@ void animalVoice(const Animal& a) {
     } else if (strcmp(a.species, "cat") == 0 || strcmp(a.species, "Cat") == 0) {
         std::cout << "Meow" << std::endl;
     } else {
-        std::cout << "HTML is a programming language🤔" << std::endl; // Ну вы поняли? Типо те кто говорят что HTMl - язык программирования они животные неизвестные :) 
+        std::cout << "HTML is a programming language🤔" << std::endl; // Ну вы поняли? Типо те кто говорят что HTMl - язык программирования они животные неизвестные науке :) 
     }
 }
 
