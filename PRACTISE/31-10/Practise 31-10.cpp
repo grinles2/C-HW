@@ -134,8 +134,8 @@ struct StudentGrades {
 int main() {
     // 1
     /*
-    Point p1 = {0.0, 0.0};
-    Point p2 = {3.0, 4.0};
+    Point p1 = {3.9, 5.3};
+    Point p2 = {7.7, 37.2};
     double dist = calculateDistance(p1, p2);
     std::cout << "Distance: " << dist << std::endl;
     */
