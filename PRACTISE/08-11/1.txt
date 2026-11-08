@@ -1,0 +1,10 @@
+apple
+paper
+wallpaper
+table
+chair
+television
+lamp
+phone
+mouse
+computer
